@@ -1,7 +1,7 @@
 # Olá! Eu sou o Igor Perdigão
 
 - 💻 Sou um apaixonado por tecnologia
-- 📖 Estudando React.js
+- 📖 Atualmente estudando React.js
 - 📧 Contate-me no email: igor_contatos@hotmail.com
 
 <div align="center">
