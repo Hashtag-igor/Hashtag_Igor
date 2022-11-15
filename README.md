@@ -1,4 +1,4 @@
-# Olá! Eu sou o Igor Perdigão
+# Olá! Meu nome é Igor Perdigão
 
 - 💻 Sou um apaixonado por tecnologia
 - 📖 Atualmente estudando React e Node
