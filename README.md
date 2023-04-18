@@ -1,8 +1,8 @@
 # Olá! Meu nome é Igor Perdigão
 
-- 💻 Sou um apaixonado por tecnologia
-- 📖 Atualmente estudando React e Node
-- 📧 Contate-me no email: igor_contatos@hotmail.com
+- 💻 Sou um apaixonado por tecnologia;
+- 📖 Atualmente estudando React com TypeScript e Node;
+- 📧 Contate-me no email: igor_contatos@hotmail.com;
 
 <div align="center">
   <a href="https://github.com/Hashtag-Igor">
@@ -17,6 +17,7 @@
     <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Igor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Igor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   </div>
   
   ##
