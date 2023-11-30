@@ -4,11 +4,15 @@
 - 📖 Atualmente estudando React e Typescript;
 - 📧 Contate-me no email: igor_contatos@hotmail.com;
 
+<br>
+
 <div align="center">
   <a href="https://github.com/Hashtag-Igor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hashtag-igor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashtag-Igor&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+<br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,6 +25,8 @@
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<br>
 
 <p align="left">
   💌 Sinta-se a vontade para entrar em contato: ⤵️
